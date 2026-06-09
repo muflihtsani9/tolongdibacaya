@@ -32,7 +32,7 @@ const playlist = [
     artist:    'Artist Name',
     file:      'music/song2.mp3',
     cover:     'assets/music-cover/song2.jpg',
-    startTime: 0,
+    startTime: 40,
     endTime:   null,
     loopStart: null,
     volume:    0.75,
